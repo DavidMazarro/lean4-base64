@@ -2,7 +2,7 @@ import Lake
 open Lake DSL
 
 package «lean4-base64» where
-  version := v!"0.1.0"
+  version := v!"0.1.1"
 
 @[default_target]
 lean_lib Base64 where
